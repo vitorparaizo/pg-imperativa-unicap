@@ -12,10 +12,12 @@ public class Aula03 {
         if (num < 0) {
             System.out.println("o numero " + num + "negativo");
         }
-        
         else {
-            System.out.print("o numero " + num + "não é negativo");
+            if (num == 0) {
+                System.out.println("o numero " + num + " neutro");
+            } else{
+                System.out.print("o numero " + num + "não é negativo");
+            }  
         }
     }
-    
 }
