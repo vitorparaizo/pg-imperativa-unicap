@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "hello-word-aula",
+        "aula11-03",
         ".vscode/aula25_02",
-        "aula11-03"
+        "aula_14_03"
     ],
     "java.project.referencedLibraries": []
 }
