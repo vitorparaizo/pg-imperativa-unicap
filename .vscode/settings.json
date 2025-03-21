@@ -1,9 +1,3 @@
 {
-    "java.project.sourcePaths": [
-        "hello-word-aula",
-        "aula11-03",
-        ".vscode/aula25_02",
-        "aula_14_03"
-    ],
-    "java.project.referencedLibraries": []
+    "java.debug.settings.onBuildFailureProceed": true
 }
